@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "@chatgpt-global-notifier-buxiu": {
+      "updates": [
+        {
+          "version": "0.6.4",
+          "update_link": "https://github.com/buxiu124/chatgpt-global-notifier-updates/releases/download/v0.6.4/chatgpt_global_notifier_firefox_0.6.4_signed.xpi",
+          "update_hash": "sha256:37e4e8ff9bc2252625ed68b04bb03163f6c015a1f6ee78a85dc42b5e970ffaa8"
+        }
+      ]
+    }
+  }
+}
